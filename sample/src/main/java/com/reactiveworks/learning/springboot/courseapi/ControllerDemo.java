@@ -13,6 +13,6 @@ public class ControllerDemo {
 	
 	@RequestMapping("/")
    public String greetMessage(){
-	   return "WELCOME TO DEV V1";
+	   return "WELCOME TO DEV env V1";
    }
 }
